@@ -127,7 +127,6 @@ public class MM7Submit {
 	 * Add binary attachmentPart to SOAP message
 	 * 
 	 * @param message
-	 * @param binary
 	 *            file location to attach
 	 * @return A SOAPMessage with binary attachmentPart.
 	 * @throws MalformedURLException
@@ -152,7 +151,6 @@ public class MM7Submit {
 	 * Add binary attachmentPart to SOAP message
 	 * 
 	 * @param message
-	 * @param binary
 	 *            file location to attach
 	 * @return A SOAPMessage with binary attachmentPart.
 	 * @throws MalformedURLException
@@ -175,7 +173,6 @@ public class MM7Submit {
 	 * Add binary attachmentPart to SOAP message
 	 * 
 	 * @param message
-	 * @param binary
 	 *            file location to attach
 	 * @return A SOAPMessage with binary attachmentPart.
 	 * @throws MalformedURLException
